@@ -1,0 +1,20 @@
+[
+  {
+    "id": "techcrunch-ai",
+    "name": "TechCrunch AI",
+    "site": "https://techcrunch.com/category/artificial-intelligence/",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "language": "英语",
+    "focus": "AI 公司、产品、资本、算力与监管",
+    "reason": "行业媒体的 AI 专栏，覆盖多家公司，可补充单一厂商公告的视角。"
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI News",
+    "site": "https://openai.com/news/",
+    "url": "https://openai.com/news/rss.xml",
+    "language": "英语",
+    "focus": "模型研究、产品发布、安全和应用案例",
+    "reason": "厂商官方发布提供研究和产品的一手消息，能与行业报道互补。"
+  }
+]
